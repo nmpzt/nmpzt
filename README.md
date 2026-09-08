@@ -1,4 +1,20 @@
-## Hi there 👋
+```
+       ,.ooo.,      
+     d$$$$$$$$b     
+    d$$$$$$$$$$b    
+    $$$$$$$$$$##    
+    $'  d$P  '$$    
+    ?$_.P `__$P     
+     '$$boo$$$$     
+      `?####P'      
+       b    d       
+       nmpz_t       
+
+(it's a skull if you
+squint hard enough)
+```
+# Hello there!
+I am nmpz_z.
 
 <!--
 **nmpzt/nmpzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
