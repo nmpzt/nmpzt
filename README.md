@@ -2,7 +2,6 @@
        ,.ooo.,      
      d$$$$$$$$b     
     d$$$$$$$$$$b    
-    $$$$$$$$$$##    
     $'  d$P  '$$    
     ?$_.P `__$P     
      '$$boo$$$$     
@@ -14,8 +13,11 @@
 squint hard enough)
 ```
 # Hello there!
-I am nmpz_z.
-
+I am nmpz_t.
+# Who am I?
+I am nmpz_t.
+# Thank you!
+Thank you!
 <!--
 **nmpzt/nmpzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
