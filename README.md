@@ -1,5 +1,5 @@
 <details>
-       <summary>Welcoming ASCII art</summary>
+       <summary>Welcoming ASCII art (click to expand)</summary>
 
 ```
                             .                            
@@ -38,13 +38,13 @@
 </details>
 
 # Hello!
-My name is nmpz_t. The name "nmpz_t" comes from my initials "NMP" combined with GMP's arbitrary precision integer type, "mpz_t". As the welcoming ASCII art states, I mainly code in C, though I also write C++, and know a bit of Python (it was my first language some 5 years ago).
+My name is `nmpz_t`. The name "nmpz_t" comes from my initials "NMP" combined with GMP's arbitrary precision integer type, `mpz_t`. I'm a self-taught programmer. As the welcoming ASCII art states, I mainly code in C, though I also write C++, and know a bit of Python (it was my first language some 5 years ago).
 # Experience
 I currently have no experience in the industry, but a few years coding as a hobbyist.
 # Repositories
-- `c-cli-calc`: A simple CLI REPL calculator in C.
-- `c-simple-ml`: Small machine learning 'library' in C, which features only multilayer perceptrons and backpropagation for learning.
+- [`c-cli-calc`](https://github.com/nmpzt/c-cli-calc): A simple CLI REPL calculator in C.
+- [`c-simple-ml`](https://github.com/nmpzt/c-simple-ml): Small machine learning 'library' in C, which features only multilayer perceptrons and backpropagation for learning.
 # Mathematics
-I have a newbie-level experience in some 'advanced' math subjects, such as topology, calculus, algebra, etc.
+I have a newbie-level knowledge in some 'advanced' math subjects, such as topology, algebra, numerical analysis, game theory, etc.
 # About the ASCII art
 It's a trace of my profile picture. I think it's somewhat good. The profile picture is made in Blender, which is a skull model from BlenderKit in front of a iStock fire background, and some compositing. Did I mention that I know Blender?
